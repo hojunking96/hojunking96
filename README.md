@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <img alt="" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white&"/>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96)](https://github.com/anuraghazra/github-readme-stats)
