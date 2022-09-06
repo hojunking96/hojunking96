@@ -4,7 +4,7 @@
 ### Hi
   
   
-### :bulb:Technology Stacks:bulb:
+### :zap:Technology Stacks:zap:
   
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white&"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white&"/>
@@ -25,7 +25,7 @@
   
 ![hojunking96's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=github_dark&show_icons=true)
 
-### Baekjoon Solved Stats
+### :star:Baekjoon Solved Stats:star:
 <br>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
