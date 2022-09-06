@@ -1,7 +1,7 @@
 <div align= "center">
 
 
-### *Hi*:hand:
+### Hi:hand:
   
 <br><br><br>
   
