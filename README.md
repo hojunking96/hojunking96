@@ -19,4 +19,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={junsong96})](https://solved.ac/{junsong96})
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96">
