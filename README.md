@@ -13,11 +13,15 @@
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white&"/>
 <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white&"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white&"/>
-
-
+<br>
+<br>
+<br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=apprentice&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=github_dark&show_icons=true)
+<br>
+<br>
+<br>
 <br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
