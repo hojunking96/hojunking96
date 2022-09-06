@@ -23,5 +23,4 @@
 <br>
 <br>
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
