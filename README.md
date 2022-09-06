@@ -23,12 +23,10 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=github_dark&show_icons=true)
+![hojunking96's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=github_dark&show_icons=true)
 
 ### Baekjoon Solved Rank
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
 <br>
-  
 <br>
- </div>
