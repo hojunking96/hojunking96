@@ -23,8 +23,8 @@
 <br>
 <br>
   
-![hojunking96's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=nord&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojunking96&layout=compact&theme=nord&hide_border=true)
+<a href="https://github.com/hojunking96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hojunking96&theme=nord&hide_border=true&show_icons=true&" /></a>
+<a href="https://github.com/hojunking96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojunking96&layout=compact&theme=nord&hide_border=true" /></a> 
 ### :star:Baekjoon Solved Stats:star:
 <br>
   
