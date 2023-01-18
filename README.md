@@ -24,7 +24,7 @@
 <br>
   
 ![hojunking96's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojunking96&theme=github_dark&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojunking96&layout=compact&theme=github_dark)
 ### :star:Baekjoon Solved Stats:star:
 <br>
   
