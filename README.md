@@ -1,13 +1,15 @@
 <div align= "center">
  
 
-### Hi:hand:
+### Hi :hand:
   
-<br><br><br>   
+<br><br>   
 
-### I've used
 
-#### Front-End
+### :star: I've used :star:
+<br>
+
+#### 📗 Front-End
 
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white&"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white&"/>
@@ -16,7 +18,7 @@
 <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white&"/>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white&"/>
 
-#### Back-End
+#### 📘 Back-End
 
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white&"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
@@ -33,7 +35,8 @@
 <img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white&"/>
 <img alt="naver" src="https://img.shields.io/badge/naver cloud platform-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white&"/>
 
-#### Communication
+#### 📙 Communication
+
 
 <img alt="github" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&"/>
 <img alt="notion" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white&"/>
@@ -43,18 +46,16 @@
 <br>
 <br>
 <br>
-<br>
 
-### :star:Baekjoon Solved Stats:star:
-<br>
+### :star: Baekjoon Solved Stats :star:
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsong96)](https://solved.ac/junsong96)
   
 <br>
-<br>
 
    
-  
+ ### :star: Github Stats :star:
+
 <a href="https://github.com/hojunking96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hojunking96&theme=nord&hide_border=true&show_icons=true&" /></a>
 <a href="https://github.com/hojunking96"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojunking96&layout=compact&theme=nord&hide_border=true" /></a> 
 
