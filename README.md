@@ -1,9 +1,6 @@
 <div align= "center">
  
-
-### Hi :hand:
-  
-<br><br>   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Convergence&size=60&duration=4000&pause=1000&color=6667AB&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Hi%2C+I'm+Hojun;Future+Backend+Developer)](https://git.io/typing-svg)
 
 
 ### :star: I've used :star:
